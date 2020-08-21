@@ -4,6 +4,8 @@ Vector2、Vector3 型の拡張メソッド
 
 ## Vector2
 
+### Round
+
 ```cs
 using Kogane;
 using UnityEngine;
@@ -20,7 +22,9 @@ public class Example : MonoBehaviour
 }
 ```
 
-### Vector3
+## Vector3
+
+### Round
 
 ```cs
 using Kogane;
